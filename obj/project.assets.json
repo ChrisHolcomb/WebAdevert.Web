@@ -12130,11 +12130,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cholcomb/Git Repos/aws-microservices-advert/WebAdevert.Web/WebAdevert.Web.csproj",
+      "projectUniqueName": "/Users/cholcomb/Git Repos/aws-microservices-advert/WebAdvert.Web/WebAdevert.Web.csproj",
       "projectName": "WebAdevert.Web",
-      "projectPath": "/Users/cholcomb/Git Repos/aws-microservices-advert/WebAdevert.Web/WebAdevert.Web.csproj",
+      "projectPath": "/Users/cholcomb/Git Repos/aws-microservices-advert/WebAdvert.Web/WebAdevert.Web.csproj",
       "packagesPath": "/Users/cholcomb/.nuget/packages/",
-      "outputPath": "/Users/cholcomb/Git Repos/aws-microservices-advert/WebAdevert.Web/obj/",
+      "outputPath": "/Users/cholcomb/Git Repos/aws-microservices-advert/WebAdvert.Web/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
